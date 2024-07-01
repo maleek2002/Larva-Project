@@ -1,0 +1,26 @@
+.brand-identity{
+    display: flex;
+    justify-content: space-around;
+
+    & img 
+    {
+        width: 180px;
+        height: 100px;
+    }
+}
+
+.join{
+    width: 160px;
+    height: 50px;
+    background-color: #f39821;
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin-left: 50%;
+    border: none;
+    padding:30px 13;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+}
